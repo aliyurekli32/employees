@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import data from "./helper/data"
 import './App.css';
 import Main from './components/Main/Main';
